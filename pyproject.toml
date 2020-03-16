@@ -4,7 +4,7 @@ version = "0.1.1"
 description = ""
 repository = "http://github.com/YutaUra/IntSet"
 homepage = "http://github.com/YutaUra/IntSet"
-readme = "READDME.md"
+readme = "README.md"
 license = "Apache-2.0"
 authors = ["YutaUra <yuuta3594@outlook.jp>"]
 
